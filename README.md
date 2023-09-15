@@ -26,4 +26,4 @@ Our dashboard offers the following features:
 
 4. **Visualize Data:** Enjoy dynamic visualizations that bring our bike sales analysis to life.
 
-Thank you for using our Bike Sales Analysis Dashboard. I hope you find it informative and valuable for your exploration of bike sales data!
+Thank you for using the Bike Sales Analysis Dashboard. I hope you find it informative and valuable for your exploration of bike sales data!
